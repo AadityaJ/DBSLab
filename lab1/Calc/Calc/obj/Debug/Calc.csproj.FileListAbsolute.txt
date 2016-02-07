@@ -1,0 +1,8 @@
+D:\140911420\lab1\Calc\Calc\bin\Debug\Calc.exe.config
+D:\140911420\lab1\Calc\Calc\bin\Debug\Calc.exe
+D:\140911420\lab1\Calc\Calc\bin\Debug\Calc.pdb
+D:\140911420\lab1\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\140911420\lab1\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\140911420\lab1\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\140911420\lab1\Calc\Calc\obj\Debug\Calc.exe
+D:\140911420\lab1\Calc\Calc\obj\Debug\Calc.pdb

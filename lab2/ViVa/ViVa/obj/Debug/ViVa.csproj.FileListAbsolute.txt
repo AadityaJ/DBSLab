@@ -1,0 +1,9 @@
+D:\140911420\lab2\ViVa\ViVa\bin\Debug\ViVa.exe.config
+D:\140911420\lab2\ViVa\ViVa\bin\Debug\ViVa.exe
+D:\140911420\lab2\ViVa\ViVa\bin\Debug\ViVa.pdb
+D:\140911420\lab2\ViVa\ViVa\obj\Debug\ViVa.Form1.resources
+D:\140911420\lab2\ViVa\ViVa\obj\Debug\ViVa.Properties.Resources.resources
+D:\140911420\lab2\ViVa\ViVa\obj\Debug\ViVa.csproj.GenerateResource.Cache
+D:\140911420\lab2\ViVa\ViVa\obj\Debug\ViVa.exe
+D:\140911420\lab2\ViVa\ViVa\obj\Debug\ViVa.pdb
+D:\140911420\lab2\ViVa\ViVa\obj\Debug\ViVa.csprojResolveAssemblyReference.cache
